@@ -11,6 +11,7 @@
 		3CDCF0072A7BD444006FA771 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CDCF0062A7BD444006FA771 /* ContentView.swift */; };
 		3CDCF0092A7BD446006FA771 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3CDCF0082A7BD446006FA771 /* Assets.xcassets */; };
 		3CDCF00C2A7BD446006FA771 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3CDCF00B2A7BD446006FA771 /* Preview Assets.xcassets */; };
+		3CDCF0132A7BD565006FA771 /* Post.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CDCF0122A7BD565006FA771 /* Post.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		3CDCF0062A7BD444006FA771 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3CDCF0082A7BD446006FA771 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3CDCF00B2A7BD446006FA771 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3CDCF0122A7BD565006FA771 /* Post.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Post.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				3CDCF0042A7BD444006FA771 /* hackernews_readerApp.swift */,
 				3CDCF0062A7BD444006FA771 /* ContentView.swift */,
+				3CDCF0122A7BD565006FA771 /* Post.swift */,
 				3CDCF0082A7BD446006FA771 /* Assets.xcassets */,
 				3CDCF00A2A7BD446006FA771 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3CDCF0132A7BD565006FA771 /* Post.swift in Sources */,
 				3CDCF0072A7BD444006FA771 /* ContentView.swift in Sources */,
 				3CDCF0052A7BD444006FA771 /* hackernews_readerApp.swift in Sources */,
 			);
